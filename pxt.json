@@ -1,0 +1,17 @@
+{
+    "name": "vl53l4cd-distance",
+    "version": "1.0.1",
+    "description": "VL53L4CD ToF sensor driver for MakeCode (Micro:bit)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "distance.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
